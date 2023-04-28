@@ -1,23 +1,5 @@
 <p align="center">
-  <img src="/src/img/logo.png" width="90%" />
-</p>
-
-KnuckleClone is a web-based adaptation of the dice minigame from [Cult of the Lamb (2022)](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/), by [Massive Monster](https://massivemonster.co/)
-
-<h1 align="center"><a href="https://nafeij.github.io/kbclone/">Play it here</a></h1>
-
-# Features
-
-- AI: Lonely Shack and Boss NPCs with difficulty scaling
-- P2P Multiplayer
-- Mobile-friendly (kind of)
-- Keyboard Controls
-- Settings, customizations and game-modes
-- User Statistics
-
-# Screenshots
-<p align="center">
-  <img src="/docs/img/screens/main.png" width="80%" />
+  <img src=".doc/preview_1.png" width="80%" />
 </p>
 <p align="center">
   <img src="/docs/img/screens/game_ai_1.png" width="80%" />
@@ -35,6 +17,22 @@ KnuckleClone is a web-based adaptation of the dice minigame from [Cult of the La
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="/docs/img/screens/mobile_settings.png" width="35%" />
 </p>
+
+KnuckleClone is a web-based adaptation of the dice minigame from [Cult of the Lamb (2022)](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/), by [Massive Monster](https://massivemonster.co/)
+
+<h1 align="center"><a href="https://nafeij.github.io/kbclone/">Play it here</a></h1>
+
+# Features
+
+- AI: Lonely Shack and Boss NPCs with difficulty scaling
+- P2P Multiplayer
+- Mobile-friendly (kind of)
+- Keyboard Controls
+- Settings, customizations and game-modes
+- User Statistics
+
+# Screenshots
+
 
 # Notice
 
