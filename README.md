@@ -2,49 +2,19 @@
   <img src=".doc/preview_1.png" width="80%" />
 </p>
 <p align="center">
-  <img src="/docs/img/screens/game_ai_1.png" width="80%" />
+  <img src=".doc/output.gif" width="80%" />
 </p>
 <p align="center">
-  <img src="/docs/img/screens/game_ai_2.png" width="80%" />
+  <img src=".doc/backDay.png" width="80%" />
 </p>
-<p align="middle">
-  <img src="/docs/img/screens/mobile_pvp_1.png" width="35%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/docs/img/screens/mobile_pvp_2.png" width="35%" />
-</p>
-<p align="middle">
-  <img src="/docs/img/screens/mobile_pvp.png" width="35%" />
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="/docs/img/screens/mobile_settings.png" width="35%" />
+<p align="center">
+  <img src=".doc/backNight.png" width="80%" />
 </p>
 
-KnuckleClone is a web-based adaptation of the dice minigame from [Cult of the Lamb (2022)](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/), by [Massive Monster](https://massivemonster.co/)
+A minimalistic Kustom. Inspired by Google Nexus.
 
-<h1 align="center"><a href="https://nafeij.github.io/kbclone/">Play it here</a></h1>
-
-# Features
-
-- AI: Lonely Shack and Boss NPCs with difficulty scaling
-- P2P Multiplayer
-- Mobile-friendly (kind of)
-- Keyboard Controls
-- Settings, customizations and game-modes
-- User Statistics
-
-# Screenshots
-
+<h1 align="center"><a href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper">Install with KLWP</a></h1>
 
 # Notice
 
-This app uses persistent cookies to save your preferences, settings and statistics. Please create an exception for this website in your browser settings if you wish to experience these features.
-
-# Attributions
-
-All assets are either original or reproductions. Original rights and intellectual properties belong to Massive Monster.
-
-Art generously contributed by [Kuroukira](https://www.reddit.com/user/Kuroukira)
-
-## CULT OF THE LAMB
-
-Cult of the Lamb is a rogue-like action-adventure game developed by indie developer Massive Monster and published by Devolver Digital.
-Start your own cult in a land of false prophets, venturing out into diverse and mysterious regions to build a loyal community of woodland Followers and spread your Word to become the one true cult.
+This wallpapers features a random background slideshow. Place your `.png` or `.jpg` backgrounds in `/storage/emulated/0/Pictures/wallpapers/Day` and in `/storage/emulated/0/Pictures/wallpapers/Night`. The widget will automatically pick a random wallpaper from the folders every hour, depending on if its day or night.
